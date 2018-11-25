@@ -1,5 +1,5 @@
 {
-  "name": "wkwk",
+  "name": "@ogrewell/wkwk",
   "version": "1.0.0",
   "description": "White Knight Webpack Kit",
   "main": "index.js",
@@ -11,5 +11,13 @@
     "js"
   ],
   "author": "Michael Lazuardy",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogrewell/wkwk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ogrewell/wkwk/issues"
+  },
+  "homepage": "https://github.com/ogrewell/wkwk#readme"
 }
