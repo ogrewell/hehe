@@ -1,6 +1,6 @@
 {
   "name": "wkwk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "White Knight Webpack Kit",
   "main": "index.js",
   "scripts": {
