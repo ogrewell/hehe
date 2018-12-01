@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ogrewell/wkwk/issues"
   },
-  "homepage": "https://github.com/ogrewell/wkwk#readme"
+  "homepage": "https://github.com/ogrewell/wkwk#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
