@@ -1,6 +1,6 @@
 var _ = require('lodash')
 
-var wkwk = {
+var hehe = {
 
     hasError: function(errors,obj,field){
         if(!Array.isArray(errors)){
@@ -14,4 +14,4 @@ var wkwk = {
 
 
 
-module.exports = wkwk
+module.exports = hehe
