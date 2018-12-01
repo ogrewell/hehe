@@ -1,5 +1,5 @@
 {
-  "name": "@ogrewell/hehe",
+  "name": "@ogrewell/wkwk",
   "version": "1.0.1",
   "description": "Hehe JS , Handling Error Handling event.",
   "main": "index.js",
@@ -14,12 +14,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ogrewell/hehe.git"
+    "url": "git+https://github.com/ogrewell/wkwk.git"
   },
   "bugs": {
-    "url": "https://github.com/ogrewell/hehe/issues"
+    "url": "https://github.com/ogrewell/wkwk/issues"
   },
-  "homepage": "https://github.com/ogrewell/hehe#readme",
+  "homepage": "https://github.com/ogrewell/wkwk#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
