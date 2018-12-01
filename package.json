@@ -1,7 +1,7 @@
 {
-  "name": "@ogrewell/wkwk",
+  "name": "@ogrewell/hehe",
   "version": "1.0.1",
-  "description": "White Knight Webpack Kit",
+  "description": "Hehe JS , Handling Error Handling event.",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -10,16 +10,16 @@
     "wkwk",
     "js"
   ],
-  "author": "Michael Lazuardy",
+  "author": "Slinging The Hash",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ogrewell/wkwk.git"
+    "url": "git+https://github.com/ogrewell/hehe.git"
   },
   "bugs": {
-    "url": "https://github.com/ogrewell/wkwk/issues"
+    "url": "https://github.com/ogrewell/hehe/issues"
   },
-  "homepage": "https://github.com/ogrewell/wkwk#readme",
+  "homepage": "https://github.com/ogrewell/hehe#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
