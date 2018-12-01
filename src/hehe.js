@@ -7,11 +7,8 @@ var hehe = {
             throw new Error('Errors parameter must be an array')
         }
         return _.some(errors, [obj, field])
-    }
+    },
 
 }
-
-
-
 
 module.exports = hehe
