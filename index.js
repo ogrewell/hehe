@@ -1,4 +1,1 @@
-exports.printMsg = () => {
-    console.log('This is a message for demo package');
-}
-
+module.exports = require('./src/wkwk');
