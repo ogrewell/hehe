@@ -1,1 +1,1 @@
-module.exports = require('./src/wkwk');
+module.exports = require('./src/hehe');
