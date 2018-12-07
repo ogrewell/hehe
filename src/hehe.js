@@ -8,6 +8,7 @@ var hehe = {
         }
         return _.some(errors, [obj, field])
     },
+    
 
 }
 
